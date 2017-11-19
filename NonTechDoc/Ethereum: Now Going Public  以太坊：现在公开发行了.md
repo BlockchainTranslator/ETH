@@ -142,7 +142,7 @@ Throughout the fundraiser, we will be working hard on development; we will relea
 
 Finally, to promote local community development, we also intend to create public community hubs and incubators, which we are tentatively calling “holons”, in several cities around the world. The first holon will be based inside of Bitcoin Decentral in Toronto, and a substantial portion of Ethereum development will take place there; anyone who is seriously interested in participating heavily in Ethereum should consider giving us a visit over the next month. Other cities we are looking into include San Francisco, Amsterdam, Tel Aviv and some city in Asia; this part of the project is still in a very early phase of development, and more details will come over the next month.
 
-最后，为了促进本地社区的发展，我们还打算创建公共社区中心和孵化器，我们暂时称之为“holons”，在全球的几个城市。第一个holon，将在多伦多的Bitcoin Decentral，并将在那里进行大量的以太坊开发。任何对以太坊有浓厚兴趣的人都可考虑下个月去拜访我们。我们正在其他城市，包括旧金山、阿姆斯特丹、特拉维夫以及亚洲的一些城市。项目的这个部分还处于开发的早期阶段，下个月将会有更多的细节。
+最后，为了促进本地社区的发展，我们还打算创建公共社区中心和孵化器，我们暂时称之为“holons”，在全球的几个城市。第一个holon，将在多伦多的Bitcoin Decentral，并将在那里进行大量的以太坊开发。任何对以太坊有浓厚兴趣的人都可考虑下个月去拜访我们。其他城市我们也正在考察，包括旧金山、阿姆斯特丹、特拉维夫以及亚洲的一些城市。项目的这个部分还处于开发的早期阶段，下个月将会有更多的细节。
 
 ----------------------------------------------------
 
