@@ -1,7 +1,7 @@
 简介
 -------------------------------
 
-区块链中文字幕/General
+区块链中文字幕/ETH
 
 是区块链中文字幕下一个区块链爱好者发起成立的翻译小组，致力从区块链技术文档的翻译、传播和推广。
 
@@ -30,14 +30,6 @@
 
 请加微信:w1791520555，并备注：BlockChainTranslator。
 群主会拉您进群。
-
-进群后，
-- 如果您加入专家组
-  请发简历及以往翻译文档给群主，群主转专家组评估后加入
-- 如果您加入翻译组
-  请翻译[https://steemit.com/eosdev/@dan/eos-development-sneak-peek-for-very-early-developers](https://steemit.com/eosdev/@dan/eos-development-sneak-peek-for-very-early-developers)中任意链接部分的内容，以中英对照的方式提交给群主，群主转专家组评估后加入
-- 如果您加入运营组
-  留意群内消息通知，有任务招募时报名即可。
 
 历史
 -------------------------------
